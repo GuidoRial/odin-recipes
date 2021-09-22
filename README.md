@@ -1,3 +1,3 @@
 # odin-recipes
-Thank you for opening this file, future me. Today is 09/15 and it's been a week since you decided you wanted to get into web development after all these years, congrats.
-In this first project, you'll test your abilities with HTML, good luck.
+Did this on the 15th of september 2021, it's the first thing I wrote in HTML after a few days of reading the theory. 
+I'll probably come back here, by now I know a little bit of CSS so I probably could do something nicer, but this project it's not a priority right now (as I just started learning JavaScript).
